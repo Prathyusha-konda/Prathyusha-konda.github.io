@@ -1,0 +1,98 @@
+<head>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/default.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118011177-1');
+</script>
+    <script>
+        $(document).ready(function(){
+          // Add smooth scrolling to all links
+          $("a").on('click', function(event) {
+
+            // Make sure this.hash has a value before overriding default behavior
+            if (this.hash !== "") {
+              // Prevent default anchor click behavior
+              event.preventDefault();
+
+              // Store hash
+              var hash = this.hash;
+
+              // Using jQuery's animate() method to add smooth page scroll
+              // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+              $('html, body').animate({
+                scrollTop: $(hash).offset().top
+              }, 800, function(){
+
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+              });
+            } // End if
+          });
+        });
+</script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav id="navbar" class="d" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" id="navtoggle" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <b>Menu</b> <i class="fa fa-bars"></i>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-left navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+
+                    <li>
+                        {% if page.scroll %}
+                        <a class="page-scroll" href="#about">About Me</a>
+                        {% else %}
+                        <a href="index.html">About Me</a>
+                        {% endif %}
+                    </li>
+                    
+                    <li>
+                        {% if page.scroll %}
+                        <a class="page-scroll" href="#CV">Curriculum Vitae</a>
+                        {% else %}
+                        <a href="index.html">Curriculum Vitae</a>
+                        {% endif %}
+                    </li>
+					
+					  <li>
+                        <a href="/blog">Blog</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <div class="jumbotron" id="header">
+    <h1 id="headertext"> {{page.page_title}} </h1>
+        </div>
+    <div class="container" id="content">
+        {{ content }}
+    </div>
+    <footer>
+    
+    </footer>
+</body>
