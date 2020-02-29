@@ -124,7 +124,7 @@ scroll: true
         </li>
     </ul>
     </div>
-    <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
+   <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
       <li id="list"><b>Published: </b>
 		</li>
