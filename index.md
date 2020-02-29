@@ -26,6 +26,7 @@ scroll: true
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
+		    <li>Expected Graduation: Summer 2021</li>
                 <li>Nominated for Dalhousie Impact Awards – Student Life and Community Service</li>
                 <li>Nominated for Board of Governors’ Award, Dalhousie University - Exceptional contributions or leadership in the extracurricular realm</li>
                 <li>Nova Scotia Health Research Foundation - Scotia Scholars Doctoral Scholarship</li>
@@ -33,8 +34,7 @@ scroll: true
                 <li>Isaac Walton Killam Memorial Predoctoral Scholarship, Isaac Killam Foundation, Dalhousie University</li>
 				<li>Nova Scotia Predoctoral Scholarship, Dalhousie University</li>
 				<li>Nova Scotia Graduate Scholarship, Dalhousie University</li>
-				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li>
-                <li>Expected Graduation: Summer 2021</li> 
+				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li> 
 		    <br>
             </ul>
         </li>
