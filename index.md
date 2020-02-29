@@ -27,63 +27,6 @@ scroll: true
     <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
     <hr>
-    <div id="skillslist"><h2><span class="fa fa-pie-chart" aria-hidden="true"></span> Skills</h2>
-        <div class="col-lg-4" id="list">
-        <div><h3><b>Technology and Computers:</b></h3>
-            <ul id="skillssublist">
-                <li>HTML and CSS Coding.</li>
-                <li>Jekyll Static Site Building.</li>
-                <li>Linux.</li>
-                <li>Terminal and Command Line Usage.</li>
-                <li>Biological Computing and Bioinformatics.</li>
-            </ul>
-        </div>
-        <div><h3><b>Research:</b></h3>
-            <ul id="skillssublist">
-                <li>Searching Primary Literature.</li>
-                <li>Self-directed Question Identification.</li>
-                <li>Grant Writing.</li>
-                <li>Experiment and Protocol Design.</li>
-            </ul>
-        </div>
-    </div>
-        <div class="col-lg-4" id="list">
-        <div><h3><b>Molecular Biology:</b></h3>
-            <ul id="skillssublist">
-                <li>Standard Techniques (PCR, DNA/Protein Electrophoresis, etc).</li>
-                <li>Bacterial Transposon Mutagenesis.</li>
-                <li>Synthetic Biology.</li>
-            </ul>
-        </div>
-        <div><h3><b>Microbiology:</b></h3>
-            <ul id="skillssublist">
-                <li>Aseptic Technique.</li>
-                <li>Bacterial Culture Techniques.</li>
-                <li>Media/Buffer Preparation.</li>
-                <li>Strain Maintenance and Organization.</li>
-            </ul>
-        </div>
-        </div>
-        <div class="col-lg-4" id="list">
-        <div><h3><b>Communication:</b></h3>
-            <ul id="skillssublist">
-                <li>Clear and Effective Writing.</li>
-                <li>Presentations.</li>
-                <li>Public Speaking.</li>
-                <li>Extensive Teaching Skills.</li>
-            </ul>
-        </div>
-        <div><h3><b>Other:</b></h3>
-            <ul id="skillssublist">
-                <li>Knowledge of Food Gardening and Food Systems.</li>
-                <li>Strong Leadership Skills.</li>
-                <li>Communication Skills.</li>
-                <li>Team-Oriented.</li>
-            </ul>
-        </div>
-    </div>
-    </div>
-	</div>
    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
