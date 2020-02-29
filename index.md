@@ -96,8 +96,7 @@ scroll: true
 				<li>Nova Scotia Predoctoral Scholarship, Dalhousie University</li>
 				<li>Nova Scotia Graduate Scholarship, Dalhousie University</li>
 				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li>
-                <li>Expected Graduation: Summer 2021</li>
-		    
+                <li>Expected Graduation: Summer 2021</li>    
             </ul>
         </li>
         <li id="list"><b>Bachelor's of Technology in Biotechnology, <i>Indian Institue of Technology Madras, Chennai, India</i></b>
@@ -105,15 +104,14 @@ scroll: true
                 <li>June 2011 - June 2015</li>
                 <li>Indian Association of Sciences Fellowship</li>
 				<li>Undergraduate Merit Scholarship</li>
-                <li>Professional major theory CGPA: 8.28/10</li>
-		    
+                <li>Professional major theory CGPA: 8.28/10</li>  
             </ul>
         </li>
         <li id="list"><b>High School Diploma, <i>Narayana Junior College, Kurnool, India</i></b>
             <ul id="sublist">
                 <li>2009-2011</li>
                 <li>Award for top ranking student in the school and in the district, Indian Institute of Technology Joint Entrance Examination</li>
-                <li>Award for top ranking student in the school and in the district, All India Engineering Entrance Exam</li>					
+                <li>Award for top ranking student in the school and in the district, All India Engineering Entrance Exam</li>		
             </ul>
         </li>
 		<li id="list"><b>Middle School Diploma, <i>St. Joseph's English School, Kurnool, India</i></b>
@@ -121,8 +119,7 @@ scroll: true
                 <li>2001-2009</li>
                 <li>Award for first ranking student in school, Central Board of Secondary Education</li>
 				<li>Sri Sunkuveera Reddy Endowment Award, Award for Top score in Mathematics</li>
-                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>
-		    
+                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>    
             </ul>
         </li>
     </ul>
