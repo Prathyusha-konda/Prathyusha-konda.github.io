@@ -68,6 +68,7 @@ scroll: true
     </div>
 	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
 	<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
+	<br>
     	<ul id="list">
       	<li id="list"><b>Published: </b>
 		</li>
