@@ -124,8 +124,7 @@ scroll: true
         </li>
     </ul>
     </div>
-	</div>
-   <h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
+   	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
     <ul id="list">
       <li id="list"><b>Published: </b>
 		</li>
@@ -150,22 +149,6 @@ scroll: true
 				<li><b>Konda P</b>,...., Gujar S<sup>#</sup>,McFarland S A<sup>#</sup> (2020). "A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy." <b><i>In Progress</i></b>.</li>
             </ul>
             </li>
-    </li>
-    <li id="list"><b>Abstracts: </b>
-         <ul id="sublist">
-                <li>Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
-                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf" target="_blank">Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing</a>, 23rd Annual Infectious Disesase Research Day, <i>Dalhousie University</i>, Halifax, NS - Apr 2018</li>
-                <li>HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator <i>exsA</i>, <i>ASM Vibrio2017: The Biology of Vibrios</i>, Chicago, IL - November 2017</li>
-                <li><a href="http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf" target="_blank">Discovery of a Genetic Switch in <i>Vibrio parahaemolyticus</i> That Contributes to Host Cell Death During Infection</a>, 22nd Annual Infectious Disease Research Day, <i>Dalhousie University</i>, Halifax, NS - March 2017</li>
-                <li><a href="http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf" target="_blank">A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform</a>, Giant Jamboree Abstract Guide, <i>iGEM Giant Jamboree</i>, Boston, MA - October 2016</li>
-            </ul>
-    </li>
-    <li id="list"><b>Blog Posts:</b>
-        <ul id="sublist">
-        <li><a href="https://plosibilities.wordpress.com/2018/03/02/borrowing-name-tags-choleras-method-of-evading-our-defences/" target="_blank">Borrowing Name-Tags: Cholera’s Method of Evading our Defences</a>, <a href="http://www.plosibilities.wordpress.com" target="_blank"><i>Plosibilities</i></a></li>
-        <li><a href="https://plosibilities.wordpress.com/2017/09/28/vaccinia-viruss-vip-access-to-host-protein-making-machinery/" target="_blank">Vaccinia Virus’s VIP Access to Host Protein Making Machinery</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
-         <li><a href="https://plosibilities.wordpress.com/2017/09/14/changing-all-on-your-own-lonely-bugs-mutate-faster/" target="_blank">Changing All on Your Own: “Lonely Bugs Mutate Faster</a>,<a href="http://www.plosibilities.wordpress.com" target="_blank"><i> Plosibilities</i></a></li>
-        </ul>
     </li>
     </ul>
     <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
