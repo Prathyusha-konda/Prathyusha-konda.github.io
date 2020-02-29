@@ -83,39 +83,45 @@ scroll: true
         </div>
     </div>
     </div>
-
+	</div>
    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
-                <li>Nominated by Dalhousie University for the Vanier Canadian Graduate Scholarship - $50,000 Award</li>
-                <li>Nova Scotia Graduate Scholarship (NSGS) Recipient - $10,000 Award</li>
-                <li>Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient 2018 - $17,500 Award</li>
-                <li>Currently Enrolled</li>
-                <li>Studying Host-Pathogen Interactions and Environmental Survival in <i>Vibrio parahaemolyticus</i></li>
-                <li>Expected Graduation: Summer 2022</li>
+                <li>Nominated for Dalhousie Impact Awards – Student Life and Community Service</li>
+                <li>Nominated for Board of Governors’ Award, Dalhousie University - Exceptional contributions or leadership in the extracurricular realm</li>
+                <li>Nova Scotia Health Research Foundation - Scotia Scholars Doctoral Scholarship</li>
+                <li>Dalhousie University President’s Award</li>
+                <li>Isaac Walton Killam Memorial Predoctoral Scholarship, Isaac Killam Foundation, Dalhousie University</li>
+				<li>Nova Scotia Predoctoral Scholarship, Dalhousie University</li>
+				<li>Nova Scotia Graduate Scholarship, Dalhousie University</li>
+				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li>
+                <li>Expected Graduation: Summer 2021</li>
             </ul>
         </li>
-        <li id="list"><b>B.Sc. First Class Honours in Microbiology and Immunology, <i>Dalhousie University</i></b>
+        <li id="list"><b>Bachelor's of Technology in Biotechnology, <i>Indian Institue of Technology Madras, Chennai, India</i></b>
             <ul id="sublist">
-                <li>Graduated June 2017</li>
-                <li>Microbiology and Immunology Award for Excellence in Undergraduate Honours Research</li>
-                <li>Cumulative GPA: 3.93</li>
-                <li>Awarded Dean's List: Fall 2013, Fall/Winter 2014/2015, Fall/Winter 2015/2016, Fall/Winter 2016/2017</li>
+                <li>June 2011 - June 2015</li>
+                <li>Indian Association of Sciences Fellowship</li>
+				<li>Undergraduate Merit Scholarship</li>
+                <li>Professional major theory CGPA: 8.28/10</li>
             </ul>
         </li>
-        <li id="list"><b>Certificate in Genetics, <i>Dalhousie University</i></b>
+        <li id="list"><b>High School Diploma, <i>Narayana Junior College, Kurnool, India</i></b>
             <ul id="sublist">
-                <li>Received June 2017</li>
+                <li>2009-2011</li>
+                <li>Award for top ranking student in the school and in the district, Indian Institute of Technology Joint Entrance Examination</li>
+                <li>Award for top ranking student in the school and in the district, All India Engineering Entrance Exam</li>					
             </ul>
         </li>
-            <li id="list"><b>High School Diploma, <i>Medicine Hat High School</i></b>
-                <ul id="sublist">
-                    <li>Received June 2013</li>
-                    <li>First Class Honours</li>
-                    <li>Awarded Alexander Rutherford Scholarship - $2,500 Award</li>
-                </ul>
-            </li>
+		<li id="list"><b>Middle School Diploma, <i>St. Joseph's English School, Kurnool, India</i></b>
+            <ul id="sublist">
+                <li>2001-2009</li>
+                <li>Award for first ranking student in school, Central Board of Secondary Education</li>
+				<li>Sri Sunkuveera Reddy Endowment Award, Award for Top score in Mathematics</li>
+                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>					
+            </ul>
+        </li>
     </ul>
     </div>
         <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
