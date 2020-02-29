@@ -8,10 +8,7 @@ scroll: true
 ---
 <div class="container" id="about">
 </div>
-
-<hr>
 <h1 id="about"><b>About Me</b></h1>
-<hr>
 <div class="container">
     <h4>I am a Ph.D. candidate in the department of Microbiology and Immunology at Dalhousie University. My work is focused on cancer immunotherapies with an integration of mass spectrometry and genomics based technologies.</h4>
 </div>
@@ -24,9 +21,7 @@ scroll: true
 </div>
 <div class="container" id="CV">
 <div>
-    <hr>
     <h1 id="CVcontent"><b>Curriculum Vitae</b></h1>
-    <hr>
    <h2 id="Education"><span class="fa fa-graduation-cap" aria-hidden="true"></span>  Education</h2>
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
