@@ -124,8 +124,9 @@ scroll: true
         </li>
     </ul>
     </div>
-   <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
-    <ul id="list">
+	</div>
+    <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
+     <ul id="list">
       <li id="list"><b>Published: </b>
 		</li>
 		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
