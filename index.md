@@ -44,7 +44,7 @@ scroll: true
                 <li>Indian Association of Sciences Fellowship</li>
 				<li>Undergraduate Merit Scholarship</li>
                 <li>Professional major theory CGPA: 8.28/10</li>
-		    <li>  </li>
+		    <br>
             </ul>
         </li>
         <li id="list"><b>High School Diploma, <i>Narayana Junior College, Kurnool, India</i></b>
