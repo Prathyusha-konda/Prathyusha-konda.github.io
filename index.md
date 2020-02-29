@@ -70,6 +70,7 @@ scroll: true
 	<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
 	<br>
     	<ul id="list">
+		<br>
       	<li id="list"><b>Published: </b>
 		</li>
             <ul id="sublist">
