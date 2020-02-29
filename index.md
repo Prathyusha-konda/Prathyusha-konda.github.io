@@ -35,6 +35,7 @@ scroll: true
 				<li>Nova Scotia Predoctoral Scholarship, Dalhousie University</li>
 				<li>Nova Scotia Graduate Scholarship, Dalhousie University</li>
 				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li> 
+		    <li>Cumulative GPA: 3.9/4.3</li>
 		    <br>
             </ul>
         </li>
@@ -52,6 +53,7 @@ scroll: true
                 <li>2009-2011</li>
                 <li>Award for top ranking student in the school and in the district, Indian Institute of Technology Joint Entrance Examination</li>
                 <li>Award for top ranking student in the school and in the district, All India Engineering Entrance Exam</li>
+		    <li>96 percentile</li>
 		    <br>
             </ul>
         </li>
@@ -61,6 +63,7 @@ scroll: true
                 <li>Award for first ranking student in school, Central Board of Secondary Education</li>
 				<li>Sri Sunkuveera Reddy Endowment Award, Award for Top score in Mathematics</li>
                 <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>
+		    <li>94 percentile</li>
 		    <br>
             </ul>
         </li>
