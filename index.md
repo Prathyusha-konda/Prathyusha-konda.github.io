@@ -87,7 +87,3 @@ scroll: true
 				<li><b>Konda P</b>,...., Gujar S<sup>#</sup>,McFarland S A<sup>#</sup> (2020). "A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy." <b><i>In Progress</i></b>.</li>
             </ul>
             </li>
-    </li>
-    </ul>
-</div>
-</div>
