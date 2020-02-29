@@ -67,10 +67,10 @@ scroll: true
     </ul>
     </div>
 	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
+	<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
     	<ul id="list">
       	<li id="list"><b>Published: </b>
 		</li>
-		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
                 <li>Murphy J,<sup>*</sup>, <b>Konda P,<sup>*</sup></b>,...., Gujar S<sup>#</sup> (2017). "MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies." <b><i>Journal of Proteome Research</i></b>. <b>ACS EDITOR’S CHOICE ARTICLE 2016-2017</b>. [IF=4.26]</li>
 				<li>Clements D R, Murphy J P, Sterea A, Kennedy B E, Kim Y, Helson E, Almasi S, Holay N, <b>Konda P</b>,...., Gujar S<sup>#</sup> (2017). "Quantitative temporal in vivo proteomics deciphers the transition of virus-driven myeloid cells into M2 macrophages." <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
@@ -84,6 +84,7 @@ scroll: true
 				<li>Murphy P, Kim Y, Clements D, <b>Konda P</b>,...., Gujar S<sup>#</sup> (2019). "Newly induced MHC I ligands shape neo antitumor CD8 T cell responses during oncolytic reovirus-based cancer immunotherapy." <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
 				<li><b>Konda P</b>, Murphy J P, Gujar S<sup>#</sup> (2020). "Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data." <b><i>Methods in Molecular Biology Bioinformatics</i></b>. <i>In Press</i>		</li>
            </ul>
+		<br>
     <li id="list"><b>In Progress:</b>
             <ul id="sublist">
 				<li>Mohamed A, <b>Konda P</b>, Gujar S, Shmulevitz M<sup>#</sup> (2020). "Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus -independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding sigma3 respectively." <b><i>Under Review</i></b>.</li>
@@ -91,3 +92,4 @@ scroll: true
 				<li><b>Konda P</b>,...., Gujar S<sup>#</sup>,McFarland S A<sup>#</sup> (2020). "A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy." <b><i>In Progress</i></b>.</li>
             </ul>
             </li>
+		<br>
