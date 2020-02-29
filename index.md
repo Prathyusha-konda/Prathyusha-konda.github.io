@@ -67,9 +67,9 @@ scroll: true
         </li>
     </ul>
     </div>
-   	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
-    <ul id="list">
-      <li id="list"><b>Published: </b>
+	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
+    	<ul id="list">
+      	<li id="list"><b>Published: </b>
 		</li>
 		<b><sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.</b>
             <ul id="sublist">
@@ -83,8 +83,8 @@ scroll: true
 				<li>Kennedy B, Murphy P, Clements D, <b>Konda P</b>,...., Gujar S<sup>#</sup> (2019). "Inhibition of pyruvate dehydrogenase kinase enhances the antitumor efficacy of oncolytic reovirus." <b><i>Cancer Research</i></b>. [IF=9.13]</li>
 				<li>Vidovic D, Huynh T T, <b>Konda P</b>,...., Marcato P<sup>#</sup> (2019). "Long non-coding RNA NRAD1 is a novel target for triple-negative breast tumors and cancer stem cells." <b><i>Cell Death and Differentiation</i></b>. [IF=8.184]</li>
 				<li>Murphy P, Kim Y, Clements D, <b>Konda P</b>,...., Gujar S<sup>#</sup> (2019). "Newly induced MHC I ligands shape neo antitumor CD8 T cell responses during oncolytic reovirus-based cancer immunotherapy." <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
-				<li><b>Konda P</b>, Murphy J P, Gujar S<sup>#</sup> (2020). "Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data." <b><i>Methods in Molecular Biology Bioinformatics</i></b>. <i>In Press</i></li>
-            </ul>
+				<li><b>Konda P</b>, Murphy J P, Gujar S<sup>#</sup> (2020). "Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data." <b><i>Methods in Molecular Biology Bioinformatics</i></b>. <i>In Press</i>		</li>
+           </ul>
     <li id="list"><b>In Progress:</b>
             <ul id="sublist">
 				<li>Mohamed A, <b>Konda P</b>, Gujar S, Shmulevitz M<sup>#</sup> (2020). "Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus -independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding sigma3 respectively." <b><i>Under Review</i></b>.</li>
@@ -94,194 +94,5 @@ scroll: true
             </li>
     </li>
     </ul>
-    <h2><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>  Conference Presentations</h2>
-    <ul id="list">
-        <li>PREP Graduate Student Research Day Platform Talk, <i>Dalhousie University</i>, Halifax, NS - May 2018</li>
-        <li>23rd Annual Infectious Disease Research Day Poster Presentation, <i>Centre for Vaccinology</i>, Halifax, NS - April 2018</li>
-        <li>Microbiology and Immunology Graduate Student Seminar Platform Talk, <i>Dalhousie University</i>, Halifax, NS - February 2018</li>
-        <li>ASM Vibrio2017 Poster Presentation, <i>American Society of Microbiology</i>, Chicago, IL - November 2017</li>
-        <li>22rd Annual Infectious Disease Research Day Poster Presentation, <i>Dalhousie University</i>, Halifax, NS - April, 2017</li>
-        <li>2016 iGEM Giant Jamboree Platform Talk, <i>iGEM</i>, Boston, MA - October, 2016</li>
-        <li>Microbiology and Immunology Seminar Series: iGEM Introduction Platform Talk, <i>Dalhousie University</i>, Halifax, NS - September 2016</li>
-    </ul>
-    <h2><span class="glyphicon glyphicon-apple" aria-hidden="true"></span> Teaching and Mentoring</h2>
-	<ul id="list">
-        <li id="list"><b>Part Time Academic, <i>Dalhousie University</i></b>
-        <ul id="sublist">
-            <li>September 2018 to <i>Present</i></li>
-            <li>Instructor for CHEM 1011/1012 at Dalhousie University and First Year Chemistry Resource Centre Coordinator</li>
-            <li>Duties include: Organize TAs, lecture once a week, respond to student e-mails, prepare course material, mark quizzes and exams.</li>
-        </ul>
-        </li>
-		<li id="list"><b>Graduate Student Mentor, <i>Dalhousie University</i></b>
-		<ul id="sublist">
-			<li>January 2018 to <i>Present</i></li>
-			<li>Wetlab mentor for Dalhousie iGEM 2018. I ensure the safety of the students, teach them the appropraite molecular biology skills, and lead them through the Summer project.</li>
-			<li>Prepared a <b>three-day molecular biology bootcamp</b>, where each student cloned a piece of DNA into the pSB1C3 iGEM Biobrick Shipping Vector.</li>
-			</ul>
-		</li>
-            <li id="list"><b>Senior Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
-            <ul id="sublist">
-                <li>January 2017 to <i>September 2018</i>.</li>
-                <li>Create TA's assignment and meeting schedule, be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
-            </ul>
-        </li>
-		<li id="list"><b>Microbiology and Immunology Introductory Class (MICI 2100) Teaching Assistant, <i>Dalhousie University</i></b>
-            <ul id="sublist">
-                <li>September 2017 to January 2018.</li>
-                <li>Respond to student emails and Brightspace messages, be available for face-to-face conversations, and mark exams.</li>
-            </ul>
-        </li>
-          <li id="list"><b>Bioinformatics and Web Design Mentor, <i>Dalhousie IGEM 2017</i></b>
-            <ul id="sublist">
-                <li>January 2017 to January 2018.</li>
-                <li>Be a graduate student resource for the Bioinformatics and Web Design teams.</li>
-                <li>Current <i>Dalhousie iGEM 2017</i> Website can be found <a target="_blank" href="http://2017.igem.org/Team:Dalhousie">here.</a></li>
-            </ul>
-        </li>
-        <li id="list"><b>Chemistry Resource Center Assistant, <i>Dalhousie University</i></b>
-            <ul id="sublist">
-                <li>September 2015 to December 2016.</li>
-                <li>Be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.</li>
-                <li>Attend weekly meetings with prepared assignment completed to answer other TA's questions and prepare for the coming week.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Community Assistant, <i>Dalhousie Student Life</i></b>
-            <ul id="sublist">
-                <li>September 2014 to May 2015</li>
-                <li>Help off-campus students by providing an on-campus liaison, location and support system similar to programs in place for on-campus students.</li>
-                <li>Plan events to integrate the Halifax community with the Dalhousie Community, and be a point of contact for communication between the Halifax Community and the University community.</li>
-            </ul>
-        </li>
-    </ul>
-	<h2><span class="fa fa-flask" aria-hidden="hidden"></span> Science Communication</h2>
-	<ul id="list">
-        <li id="list"><b><a href="https://twitter.com/scislamhfx?lang=en" target="_blank">Science Slam Halifax Participant</a></b>
-            <ul id="sublist">
-                <li>Discussed a subset of my work, marine nutrient cycles, to a lay audience at a Grade 8 education level</li>
-                <li>Platform was a 5 minute talk, no powerpoint slides.</li>
-            </ul>
-        </li>
-		<li id="list"><b><a href="https://www.dal.ca/news/2018/06/06/curious--just-ask-a-scientist.html" target="_blank">"Ask a Scientist"</a> Campaign, <i>Dalhousie Faculty of Science</i></b>
-			<ul id="sublist">
-				<li>Discussed LGBTQ+ Science, Technology, Engineering, Maths Day at Halifax Pride along with other LGBTQ+ Scientists at Dalhousie</li>
-				<li>Discussed Environmental Microbiology and Bacteriology to the community crowd.</li>
-			</ul>
-		</li>
-		<li id="list"><b>LGBTQ+ Science, Technology, Engineering, Maths Day Discussion on <i>Information Morning</i> with Portia Clark</b>
-			<ul id="sublist">
-				<li><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">Information Morning</a> is the public broadcasters (CBC) local morning radio show in Nova Scotia</li>
-				<li>Discussed the importance of inclusion and diversity in STEM, along with LGBTQ+ STEM Day.</li>
-			</ul>
-		</li>
-	</ul>
-    <h2><span class="fa fa-users" aria-hidden="hidden"></span> Community Service</h2>
-    <ul id="list">
-        <li id="list"><b>Graduate Student Representative, <i>Undergraduate Studies Committee.</i></b>
-            <ul id="sublist">
-                <li>Sept 2017 to Present</li>
-                <li>Act as a liason between graduate/undergraduate students and the committee</li>
-                <li>Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy</li>
-            </ul>
-        </li>
-        <li id="list"><b>External Coordinator, <i><a href="http://dalurbangarden.com" target="_blank">Dalhousie Urban Garden Society</a></i></b>
-            <ul id="sublist">
-                <li>May 2016 to <i>Present</i></li>
-                <li>Act as a liaison between Dalhousie Urban Garden Society with community food initiatives and groups, prepare newsletters and social media posts and take charge of regular garden maintenance</li>
-            </ul>
-        </li>
-        <li id="list"><b>Front of House, <i>Halifax Music Co-Op</i></b>
-            <ul id="sublist">
-                <li>September 2013 to March 2015</li>
-                <li>Take and sell tickets at the door, greet concert-goers, and sell merchandise/concessions.</li>
-            </ul>
-        </li>
-        <li id="list"><b>House Co-President, <i>Howe Hall Residence Council</i></b>
-            <ul id="sublist">
-                <li>September 2013 to April 2014</li>
-                <li>Alongside the co-president, put together a house council and hold weekly house council meetings, attend monthly residence council meetings, plan house events, and support the rest of council in community initiatives.</li>
-            </ul>
-        </li>
-    </ul>
-    <h2><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> Career Experience</h2>
-    <ul id="list">
-        <li id="list"><b>NSERC USRA Research Assistant, <i>Dalhousie University</i></b>
-            <ul id="sublist">
-                <li>May-September 2016, <i>Thomas Lab</i></li>
-                <li>Ensured lab stocks and supplies were adequate, performed experiments at the discretion of the Primary Investigator</li>
-                <li>Skills learned: knockout strain construction, polymerase chain reaction, DNA extraction and purification, secreted protein purification, DNA gel electrophoresis, protein gel electrophoresis, buffer and reagent preparation.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Groundskeeper, <i>Mount Saint Vincent University</i></b>
-            <ul id="sublist">
-                <li>May-September 2016</li>
-                <li>Self-directed task-oriented work, ensure grounds of the University are maintained</li>
-                <li>Tasks: Mowing lawns, planting and maintaining flower beds, cleaning up garbage around campus, pruning trees and shrubs.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Camp Counsellor, <i>Dalhousie University - Dalplex</i></b>
-            <ul id="sublist">
-                <li>May-September 2015</li>
-                <li>Organize and Supervise activities for Camp children at Dalhousie University's Dalplex Active Kids Summer Camp.</li>
-                <li>Be CPR C and First Aid Certified as well as hold current Water Safety Instructor and National Lifeguarding Service - Pool Option Certifications.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Swim Instructor and Lifeguard, <i>Dalhousie University - Dalplex</i></b>
-            <ul id="sublist">
-                <li>May 2014 - May 2015</li>
-                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certification.</li>
-                <li>Overlook operations of the pool and ensure patron safety during use of the facilities, as well as hold National Lifeguard Service - Pool Option certification.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Lifeguard and Swim Instructor, <i>City of Medicine Hat</i></b>
-            <ul id="sublist">
-                <li>May 2012 - May 2013</li>
-                <li>Organize swim lessons for children aged 2 to 14 years of age, as well as hold Water Safety Instructor Certification.</li>
-                <li>Overlook operations of the pool and ensure patron safety during use of the facilities, as well as hold National Lifeguard Service - Pool Option certification.</li>
-            </ul>
-        </li>
-        <li id="list"><b>Technology Associate, <i>Staples Business Depot</i></b>
-            <ul id="sublist">
-                <li>December 2011 - May 2013</li>
-                <li>Relevant Skills: Communication, team-building and cooperation skills, technology and computer knowledge, teaching others, initiative.</li>
-                <li>As a member of the sales team, roles included assisting customers, selling computers, tablets and associated tech, and ensuring cleanliness and organization of the store</li>
-                <li>Assisted in Computer Setups, One-on-one technology learning lessons, screen protector installation and router setups.</li>
-            </ul>
-        </li>
-    </ul>
-    <h2><span class="glyphicon glyphicon-tower" aria-hidden="true"></span>  Awards:</h2>
-    <ul id="list">
-        <li>2018 Nova Scotia Health Research Foundation Scotia Scholars Award - $10,000 Award</li>
-        <li>2018 Alexander Graham Bell Canadian Graduate Scholarship - Masters Recipient - $17,500 Award</li>
-        <li>2018 Nova Scotia Graduate Scholarship - $10,000</li>
-        <li>2017 Award for Excellence in Undergraduate Honours Research - $100</li>
-        <li>2017 Nova Scotia Graduate Scholarship - $10,000</li>
-        <li>2017 Faculty of Science Undergraduate Research Prize</li>
-        <li>2017 Honours Student Prize</li>
-        <li>2016/2017 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2016 Natural Science and Engineering Research Council of Canada University Summer Research Award - $4,500</li>
-        <li>2015/2016 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2015 Dalhousie University In-Course Scholarship - $250</li>
-        <li>2014/2015 Academic Year – Faculty of Science Dean’s List</li>
-        <li>2013 Fall – Faculty of Science Dean’s List</li>
-        <li>2013 Dalhousie University Entrance Scholarship - $750</li>
-        <li>2013 Alexander Rutherford Scholarship - $2,500</li>
-    </ul>
-    <h2><span class="fa fa-newspaper-o" aria-hidden="true"></span> Media</h2>
-    <ul id="list">
-        <li id="list"><b><a href="https://www.cbc.ca/listen/shows/information-morning-ns/" target="_blank">CBC Nova Scotia's Information Morning Radio Show </a> - <i>Inclusion and Diversity in STEM</i> with Portia Clarke, live in studio.</b></li>
-            <ul id="sublist">
-                <li>Discussed #LGBTSTEMday and LGBTQ+ Representation in Science, Technology, Engineering, and Math (STEM)</li>
-            </ul>
-        <li id="list"><b>Halifax's The Coast - <i><a target="_blank" href="https://www.thecoast.ca/halifax/10-urban-gardens-you-need-to-know/Content?oid=8720166">10 urban gardens you need to know</a></i> by Victoria Walton</b></li>
-            <ul id="sublist">
-                <li>Featured for work at the Dalhousie Urban Garden</li>
-            </ul>
-        <li id="list"><b>The Dalhousie Gazette - <i><a href="http://dalgazette.com/news/urban-garden-one-dalhousies-hidden-gems/">Urban Garden is one of Dalhousie’s hidden gems</a></i> by Lauren Hazlewood</b>
-            <ul id="sublist">
-                <li>Featured for work at the Dalhousie Urban Garden</li>
-            </ul>
-            </li>
-        </ul>
 </div>
 </div>
