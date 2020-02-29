@@ -97,6 +97,7 @@ scroll: true
 				<li>Nova Scotia Graduate Scholarship, Dalhousie University</li>
 				<li>CIHR Travel Award Recipient, Canadian Bioinformatics Workshops</li>
                 <li>Expected Graduation: Summer 2021</li>
+		    
             </ul>
         </li>
         <li id="list"><b>Bachelor's of Technology in Biotechnology, <i>Indian Institue of Technology Madras, Chennai, India</i></b>
@@ -105,6 +106,7 @@ scroll: true
                 <li>Indian Association of Sciences Fellowship</li>
 				<li>Undergraduate Merit Scholarship</li>
                 <li>Professional major theory CGPA: 8.28/10</li>
+		    
             </ul>
         </li>
         <li id="list"><b>High School Diploma, <i>Narayana Junior College, Kurnool, India</i></b>
@@ -119,7 +121,8 @@ scroll: true
                 <li>2001-2009</li>
                 <li>Award for first ranking student in school, Central Board of Secondary Education</li>
 				<li>Sri Sunkuveera Reddy Endowment Award, Award for Top score in Mathematics</li>
-                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>					
+                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>
+		    
             </ul>
         </li>
     </ul>
