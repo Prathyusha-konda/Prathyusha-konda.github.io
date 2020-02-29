@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-page_title: Landon J. Getz
+page_title: Prathyusha Konda
 scroll: true
 ---
 <div class="container" id="about">
@@ -13,14 +13,14 @@ scroll: true
 <h1 id="about"><b>About Me</b></h1>
 <hr>
 <div class="container">
-    <h4>I am a Ph.D. candidate in the Thomas lab at Dalhousie University studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions.</h4>
+    <h4>I am a Ph.D. candidate in the department of Microbiology and Immunology at Dalhousie University. My work is focused on cancer immunotherapies with an integration of mass spectrometry and genomics based technologies.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
-    <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></h5>|
-    <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></h5>|
-    <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></h5>|
-    <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/LandonGetz">Github</a></h5>|
-    <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></h5>
+    <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:prathyusha.konda@dal.ca"> prathyusha.konda@dal.ca</a></h5>|
+    <h5 id="contactbuttons"><i id="icon" class="fa fa-twitter-square fa-1x" aria-hidden="true"></i>  Twitter: <a target="_blank" href="http://twitter.com/labratprats">@labratprats</a></h5>|
+    <h5 id="contactbuttons"><span id="icon" class="fa fa-linkedin-square"></span>  <a href="https://www.linkedin.com/in/prathyusha-konda-3240385a/">Linkedin</a></h5>|
+    <h5 id="contactbuttons"><span id="icon" class="fa fa-github-square"></span>  <a href="https://www.github.com/Prathyusha-konda">Github</a></h5>|
+    <h5 id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i>  <a href="https://scholar.google.ca/citations?user=LMu60kjth8EC&hl=en">Google Scholar</a></h5>
 </div>
 <div class="container" id="CV">
 <div>
