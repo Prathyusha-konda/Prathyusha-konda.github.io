@@ -98,3 +98,17 @@ scroll: true
             </ul>
             </li>
 		<br>
+		<h2 id="Conferences/Workshops"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Conferences/Workshops</h2>
+		<br>
+            <ul id="sublist">
+		<li> Canadian Cancer Research Conference, 2019. Poster title: Discovery of Tumor-associated T cell epitopes through targeted database searches for mass spectrometry data. </li> 
+		    <li> Canadian Bioinformatics Workshop -  Using Clouds for Big Cancer Data Analysis, 2019. </li>
+		    <li> BHCRI/TFRI Cancer Research Workshop in Atlantic Canada, 2019. </li>
+		    <li> Workshop on Nanoparticle delivery systems for ruthenium-based therapeutics, 2019. </li>
+		    <li> Workshop on Advancing immunopeptidomics Techniques for Cancer Immunotherapy, 2019. Oral Presentation: Improving MHC-I peptide identification by incorporating targeted searches of mass spectrometry data </li>
+		    <li> BHCRI/TFRI Cancer Research Conference in Atlantic Canada, 2018. Poster Title: Discovery of Tumor associated T cell epitopes through targeted searches of mass spectrometry data. </li>
+		    <li> Organization for the study of sex differences - Annual Meeting, 2017. Poster Title: SexImmunome of reovirus-assisted Cancer Immunotherapy: Discovery, Characterization and Therapeutic Implications. </li>
+		    <li> Canadian Bioinformatics Workshop - Pathway and Network Analysis of -omics Data, 2016.</li>
+		    <li> Canadian Bioinformatics Workshop - Informatics for RNA-seq Analysis, 2016.</li>
+		</ul>
+
