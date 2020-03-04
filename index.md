@@ -80,7 +80,7 @@ scroll: true
       	<li id="list"><b>Published: </b>
 		</li>
             <ul id="sublist">
-		    <li>Murphy J,<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,...., Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <b><i>Journal of Proteome Research</i></b>. <b>ACS EDITOR’S CHOICE ARTICLE 2016-2017</b>. [IF=4.26]</li>
+		    <li>Murphy J,<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,...., Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. <b>ACS EDITOR’S CHOICE ARTICLE 2016-2017</b>. [IF=4.26]</li>
 				<li>Clements D R, Murphy J P, Sterea A, Kennedy B E, Kim Y, Helson E, Almasi S, Holay N, <b>Konda P</b>,...., Gujar S. 2017. Quantitative temporal in vivo proteomics deciphers the transition of virus-driven myeloid cells into M2 macrophages. <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
                 <li>Pathak G P, Shah R, Kennedy B E, Murphy J P, Clements D, <b>Konda P</b>,...., Gujar S. 2018. RTN4 Knockdown Dysregulates the AKT Pathway, Destabilizes the Cytoskeleton, and Enhances Paclitaxel-Induced Cytotoxicity in Cancers. <b><i>Molecular Therapy</i></b>. [IF=8.4]</li>
 				<li>Monro S, Colón K L, Yin H, Roque III J, <b>Konda P</b>,...., McFarland S A. 2018. Transition metal complexes and photodynamic therapy from a tumor-centered approach: Challenges, opportunities, and highlights from the development of TLD1433. <b><i>Chemical Reviews</i></b>. <i>Contains immunology data</i> [IF=54.3]</li>
