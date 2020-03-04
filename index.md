@@ -6,7 +6,9 @@ layout: default
 page_title: Prathyusha Konda
 scroll: true
 ---
-<img align="center" src="images/header_new_copy.jpg" width="300" height="400" alt="hi" class="inline" />
+<p align="center">
+  <img src="images/header_new_copy.jpg" width="300" height="400" alt="hi" class="inline" />
+</p>
 <div class="container" id="about">
 </div>
 <h1 id="about"><b>About Me</b></h1>
