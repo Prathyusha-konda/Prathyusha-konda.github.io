@@ -80,24 +80,24 @@ scroll: true
       	<li id="list"><b>Published: </b>
 		</li>
             <ul id="sublist">
-		    <li>Murphy J,<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,...., Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. <b>ACS EDITOR’S CHOICE ARTICLE 2016-2017</b>. [IF=4.26]</li>
-				<li>Clements D R, Murphy J P, Sterea A, Kennedy B E, Kim Y, Helson E, Almasi S, Holay N, <b>Konda P</b>,...., Gujar S. 2017. Quantitative temporal in vivo proteomics deciphers the transition of virus-driven myeloid cells into M2 macrophages. <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
-                <li>Pathak G P, Shah R, Kennedy B E, Murphy J P, Clements D, <b>Konda P</b>,...., Gujar S. 2018. RTN4 Knockdown Dysregulates the AKT Pathway, Destabilizes the Cytoskeleton, and Enhances Paclitaxel-Induced Cytotoxicity in Cancers. <b><i>Molecular Therapy</i></b>. [IF=8.4]</li>
-				<li>Monro S, Colón K L, Yin H, Roque III J, <b>Konda P</b>,...., McFarland S A. 2018. Transition metal complexes and photodynamic therapy from a tumor-centered approach: Challenges, opportunities, and highlights from the development of TLD1433. <b><i>Chemical Reviews</i></b>. <i>Contains immunology data</i> [IF=54.3]</li>
-				<li><b>Konda P</b>, Murphy J P, Gujar S. 2019. Improving MHC-I Ligand Identifications from LC-MS/MS Data by Incorporating Allelic Peptide Motifs. <b><i>Proteomics</i></b>. [IF=3.1]</li>
-				<li>Murphy P, Yu Q, <b>Konda P</b>,...., Gujar S. 2019. Multiplexed quantitation with isobaric tagging mass spectrometry reveals MHC-I ligand dynamics in response to doxorubicin. <b><i>Analytical Chemistry</i></b>. [IF=6.35]</li>
-				<li><b>Konda P</b>, Murphy J P, Gujar S. 2019. Using a targeted database search to improve MHC I peptide database searches. <b><i>Methods in Molecular Biology Immunoproteomics</i></b>.<i>Second Edition</i>.</li>
-				<li>Kennedy B, Murphy P, Clements D, <b>Konda P</b>,...., Gujar S. 2019. Inhibition of pyruvate dehydrogenase kinase enhances the antitumor efficacy of oncolytic reovirus. <b><i>Cancer Research</i></b>. [IF=9.13]</li>
-				<li>Vidovic D, Huynh T T, <b>Konda P</b>,...., Marcato P. 2019. Long non-coding RNA NRAD1 is a novel target for triple-negative breast tumors and cancer stem cells. <b><i>Cell Death and Differentiation</i></b>. [IF=8.184]</li>
-				<li>Murphy P, Kim Y, Clements D, <b>Konda P</b>,...., Gujar S. 2019. Newly induced MHC I ligands shape neo antitumor CD8 T cell responses during oncolytic reovirus-based cancer immunotherapy. <b><i>Journal of Proteome Research</i></b>. [IF=4.26]</li>
-				<li><b>Konda P</b>, Murphy J P, Gujar S. 2020. Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data. <b><i>Methods in Molecular Biology Bioinformatics</i></b>. <i>In Press</i>		</li>
+		    <li>Murphy J,<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,...., Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. ACS EDITOR’S CHOICE ARTICLE 2016-2017. [IF=4.26]</li>
+				<li>Clements D R, Murphy J P, Sterea A, Kennedy B E, Kim Y, Helson E, Almasi S, Holay N, <b>Konda P</b>,...., Gujar S. 2017. Quantitative temporal in vivo proteomics deciphers the transition of virus-driven myeloid cells into M2 macrophages. <i>Journal of Proteome Research</i>. [IF=4.26]</li>
+                <li>Pathak G P, Shah R, Kennedy B E, Murphy J P, Clements D, <b>Konda P</b>,...., Gujar S. 2018. RTN4 Knockdown Dysregulates the AKT Pathway, Destabilizes the Cytoskeleton, and Enhances Paclitaxel-Induced Cytotoxicity in Cancers. <i>Molecular Therapy</i>. [IF=8.4]</li>
+				<li>Monro S, Colón K L, Yin H, Roque III J, <b>Konda P</b>,...., McFarland S A. 2018. Transition metal complexes and photodynamic therapy from a tumor-centered approach: Challenges, opportunities, and highlights from the development of TLD1433. <i>Chemical Reviews</i>. <i>Contains immunology data</i> [IF=54.3]</li>
+				<li><b>Konda P</b>, Murphy J P, Gujar S. 2019. Improving MHC-I Ligand Identifications from LC-MS/MS Data by Incorporating Allelic Peptide Motifs. <i>Proteomics</i>. [IF=3.1]</li>
+				<li>Murphy P, Yu Q, <b>Konda P</b>,...., Gujar S. 2019. Multiplexed quantitation with isobaric tagging mass spectrometry reveals MHC-I ligand dynamics in response to doxorubicin. <i>Analytical Chemistry</i>. [IF=6.35]</li>
+				<li><b>Konda P</b>, Murphy J P, Gujar S. 2019. Using a targeted database search to improve MHC I peptide database searches. <i>Methods in Molecular Biology Immunoproteomics</i>.<i>Second Edition</i>.</li>
+				<li>Kennedy B, Murphy P, Clements D, <b>Konda P</b>,...., Gujar S. 2019. Inhibition of pyruvate dehydrogenase kinase enhances the antitumor efficacy of oncolytic reovirus. <i>Cancer Research</i>. [IF=9.13]</li>
+				<li>Vidovic D, Huynh T T, <b>Konda P</b>,...., Marcato P. 2019. Long non-coding RNA NRAD1 is a novel target for triple-negative breast tumors and cancer stem cells. <i>Cell Death and Differentiation</i>. [IF=8.184]</li>
+				<li>Murphy P, Kim Y, Clements D, <b>Konda P</b>,...., Gujar S. 2019. Newly induced MHC I ligands shape neo antitumor CD8 T cell responses during oncolytic reovirus-based cancer immunotherapy. <i>Journal of Proteome Research</i>. [IF=4.26]</li>
+				<li><b>Konda P</b>, Murphy J P, Gujar S. 2020. Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data. <i>Methods in Molecular Biology Bioinformatics</i>. <i>In Press</i>		</li>
            </ul>
 		<br>
     <li id="list"><b>In Progress:</b>
             <ul id="sublist">
-				<li>Mohamed A, <b>Konda P</b>, Gujar S, Shmulevitz M. 2020. Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus -independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding sigma3 respectively. <b><i>Under Review</i></b>.</li>
-				<li>Holman P S, Lobo A, Novorolsky R, Nichols M, <b>Konda P</b>,...., Robertson S G. 2020. Impaired mitochondrial calcium uptake models axonal injury in progressive multiple sclerosis. <b><i>Under Review</i></b>.</li>
-				<li><b>Konda P</b>,...., Gujar S<sup>#</sup>,McFarland S A. 2020. A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy. <b><i>In Progress</i></b>.</li>
+				<li>Mohamed A, <b>Konda P</b>, Gujar S, Shmulevitz M. 2020. Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus -independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding sigma3 respectively. <i>Under Review</i>.</li>
+				<li>Holman P S, Lobo A, Novorolsky R, Nichols M, <b>Konda P</b>,...., Robertson S G. 2020. Impaired mitochondrial calcium uptake models axonal injury in progressive multiple sclerosis. <i>Under Review</i>.</li>
+				<li><b>Konda P</b>,...., Gujar S<sup>#</sup>,McFarland S A. 2020. A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy. <i>In Progress</i>.</li>
             </ul>
             </li>
 		<br>
