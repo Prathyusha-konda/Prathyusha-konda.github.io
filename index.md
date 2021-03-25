@@ -80,7 +80,7 @@ scroll: true
       	<li id="list"><b>Published: </b>
 		</li>
             <ul id="sublist">
-		    <li>Murphy J,<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,.. Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. ACS EDITOR’S CHOICE ARTICLE 2016-2017. [IF=4.26]</li>
+		    <li>Murphy J<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,.. Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. ACS EDITOR’S CHOICE ARTICLE 2016-2017. [IF=4.26]</li>
 				<li>Clements D R, Murphy J P, Sterea A, Kennedy B E, Kim Y, Helson E, Almasi S, Holay N, <u><b>Konda P</b></u>,.. Gujar S. 2017. Quantitative temporal in vivo proteomics deciphers the transition of virus-driven myeloid cells into M2 macrophages. <u><i>Journal of Proteome Research</i></u>. [IF=4.26]</li>
 		    <li>Pathak G P, Shah R, Kennedy B E, Murphy J P, Clements D, <u><b>Konda P</b></u>,.. Gujar S. 2018. RTN4 Knockdown Dysregulates the AKT Pathway, Destabilizes the Cytoskeleton, and Enhances Paclitaxel-Induced Cytotoxicity in Cancers. <u><i>Molecular Therapy</i></u>. [IF=8.4]</li>
 		    <li>Monro S, Colón K L, Yin H, Roque III J, <u><b>Konda P</b></u>,.. McFarland S A. 2018. Transition metal complexes and photodynamic therapy from a tumor-centered approach: Challenges, opportunities, and highlights from the development of TLD1433. <u><i>Chemical Reviews</i></u>. <i>Contains immunology data</i> [IF=54.3]</li>
@@ -90,14 +90,16 @@ scroll: true
 		    <li>Kennedy B, Murphy P, Clements D, <u><b>Konda P</b></u>,.. Gujar S. 2019. Inhibition of pyruvate dehydrogenase kinase enhances the antitumor efficacy of oncolytic reovirus. <u><i>Cancer Research</i></u>. [IF=9.13]</li>
 		    <li>Vidovic D, Huynh T T, <u><b>Konda P</b></u>,.. Marcato P. 2019. Long non-coding RNA NRAD1 is a novel target for triple-negative breast tumors and cancer stem cells. <u><i>Cell Death and Differentiation</i></u>. [IF=8.184]</li>
 		    <li>Murphy P, Kim Y, Clements D, <u><b>Konda P</b></u>,.. Gujar S. 2019. Newly induced MHC I ligands shape neo antitumor CD8 T cell responses during oncolytic reovirus-based cancer immunotherapy. <u><i>Journal of Proteome Research</i></u>. [IF=4.26]</li>
-		    <li><u><b>Konda P</b></u>, Murphy J P, Gujar S. 2020. Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data. <u><i>Methods in Molecular Biology Bioinformatics</i></u>. <i>In Press</i>		</li>
+		    <li><u><b>Konda P</b></u>, Murphy J P, Gujar S. 2020. Enhancing MHC-I peptide identification by incorporating targeted searches of mass spectrometry data. <u><i>Methods in Molecular Biology Bioinformatics</i></u>.		</li>		    
+		    <li>Lifshits LM<sup>*</sup>, Roque III JA<sup>*</sup>, <u><b>Konda P</b></u><sup>*</sup>,... McFarland SA. 2020. Near-infrared absorbing Ru (ii) complexes act as immunoprotective photodynamic therapy (PDT) agents against aggressive melanoma. <u><i>Chemical Science</i></u>. <i>[IF=9.346]</i>		</li>
+		    <li>Mohamed A, <u><b>Konda P</b></u>, Eaton HE,... Shmulevitz M. 2020. Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus-independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding σ3 respectively. <u><i>Plos Pathogens</i></u>. <i>[IF=6.218]</i>		</li>
+		    <li>Holman SP, Lobo AS, Novorolsky RJ,... <u><b>Konda P</b></u>, Robertson GS. 2020. Neuronal mitochondrial calcium uniporter deficiency exacerbates axonal injury and suppresses remyelination in mice subjected to experimental autoimmune encephalomyelitis. <u><i>Experimental Neurology</i></u>. <i>[IF=4.56]</i>		</li>
+		    <li>Pol JG, Workenhe ST, <u><b>Konda P</b></u>, Gujar S, Kroemer G. 2020. Cytokines in oncolytic virotherapy. <u><i>Cytokine & Growth Factor Reviews</i></u>. <i>[IF=5.982]</i>		</li>
+		    <li><u><b>Konda P</b></u>, Lifshits LM<sup>*</sup>, Roque III JA<sup>*</sup>, ... Gujar S. 2021. Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy. <u><i>OncoImmunology</i></u>. <i>[IF=4.91]</i>		</li>
            </ul>
 		<br>
     <li id="list"><b>In Progress:</b>
             <ul id="sublist">
-		    <li>Mohamed A, <u><b>Konda P</b></u>, Gujar S, Shmulevitz M. 2020. Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus -independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding sigma3 respectively. <u><i>Under Review</i></u>.</li>
-		    <li>Holman P S, Lobo A, Novorolsky R, Nichols M, <u><b>Konda P</b></u>,.. Robertson S G. 2020. Impaired mitochondrial calcium uptake models axonal injury in progressive multiple sclerosis. <u><i>Under Review</i></u>.</li>
-		    <li><u><b>Konda P</b></u>,.. Gujar S,McFarland S A. 2020. A New Class of Ru(II) Near-Infrared Photosensitizing Agents with Immunotherapeutic Potential for Melanoma Photodynamic Therapy. <u><i>In Progress</i></u>.</li>
             </ul>
             </li>
 		<br>
