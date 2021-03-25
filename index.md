@@ -95,7 +95,7 @@ scroll: true
 		    <li>Mohamed A, <u><b>Konda P</b></u>, Eaton HE,... Shmulevitz M. 2020. Closely related reovirus lab strains induce opposite expression of RIG-I/IFN-dependent versus-independent host genes, via mechanisms of slow replication versus polymorphisms in dsRNA binding σ3 respectively. <u><i>Plos Pathogens</i></u>. <i>[IF=6.218]</i>		</li>
 		    <li>Holman SP, Lobo AS, Novorolsky RJ,... <u><b>Konda P</b></u>, Robertson GS. 2020. Neuronal mitochondrial calcium uniporter deficiency exacerbates axonal injury and suppresses remyelination in mice subjected to experimental autoimmune encephalomyelitis. <u><i>Experimental Neurology</i></u>. <i>[IF=4.56]</i>		</li>
 		    <li>Pol JG, Workenhe ST, <u><b>Konda P</b></u>, Gujar S, Kroemer G. 2020. Cytokines in oncolytic virotherapy. <u><i>Cytokine & Growth Factor Reviews</i></u>. <i>[IF=5.982]</i>		</li>
-		    <li><u><b>Konda P</b></u>, Lifshits LM<sup>*</sup>, Roque III JA<sup>*</sup>, ... Gujar S. 2021. Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy. <u><i>OncoImmunology</i></u>. <i>[IF=4.91]</i>		</li>
+		    <li><u><b>Konda P</b></u><sup>*</sup>, Lifshits LM<sup>*</sup>, Roque III JA<sup>*</sup>, ... Gujar S. 2021. Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy. <u><i>OncoImmunology</i></u>. <i>[IF=4.91]</i>		</li>
            </ul>
 		<br>
     <li id="list"><b>In Progress:</b>
