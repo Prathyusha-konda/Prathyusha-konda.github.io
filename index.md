@@ -44,7 +44,7 @@ scroll: true
         </li>
         <li id="list"><b>Bachelor's of Technology in Biotechnology, <i>Indian Institue of Technology Madras, Chennai, India</i></b>
             <ul id="sublist">
-                <li>June 2011 - June 2015</li>
+                <li>2011 - 2015</li>
                 <li>Indian Association of Sciences Fellowship</li>
 				<li>Undergraduate Merit Scholarship</li>
                 <li>Professional major theory CGPA: 8.28/10</li>
