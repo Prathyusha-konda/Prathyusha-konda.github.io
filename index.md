@@ -106,6 +106,7 @@ scroll: true
 		<h2 id="Conferences/Workshops"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Conferences/Workshops</h2>
 		<br>
             <ul id="sublist">
+		    <li> American Society for Mass Spectrometry Reboot, 2020 (Virtual due to COVID19). Poster title: Discovery of Tumor associated T cell epitopes through targeted searches of mass spectrometry data. </li> 
 		<li> Canadian Cancer Research Conference, 2019. Poster title: Discovery of Tumor-associated T cell epitopes through targeted database searches for mass spectrometry data. </li> 
 		    <li> Canadian Bioinformatics Workshop -  Using Clouds for Big Cancer Data Analysis, 2019. </li>
 		    <li> BHCRI/TFRI Cancer Research Workshop in Atlantic Canada, 2019. </li>
