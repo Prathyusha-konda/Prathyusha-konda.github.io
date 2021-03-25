@@ -29,7 +29,7 @@ scroll: true
     <ul id="list">
         <li id="list"><b>Ph.D Microbiology and Immunology, <i>Dalhousie University</i></b>
             <ul id="sublist">
-		    <li>Expected Graduation: Summer 2021</li>
+		    <li>Expected Graduation: Winter 2022</li>
                 <li>Nominated for Dalhousie Impact Awards – Student Life and Community Service (2020)</li>
                 <li>Nominated for Board of Governors’ Award, Dalhousie University - Exceptional contributions or leadership in the extracurricular realm (2020)</li>
                 <li>Nova Scotia Health Research Foundation - Scotia Scholars Doctoral Scholarship</li>
