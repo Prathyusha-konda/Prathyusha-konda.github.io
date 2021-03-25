@@ -117,7 +117,6 @@ scroll: true
 		    <li> Canadian Bioinformatics Workshop - Pathway and Network Analysis of -omics Data, 2016.</li>
 		    <li> Canadian Bioinformatics Workshop - Informatics for RNA-seq Analysis, 2016.</li>
 		</ul>
-		</li>
 		<br>
 		<h2 id="Teaching experience"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Teaching experience</h2>
 		<br>
