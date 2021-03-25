@@ -77,7 +77,7 @@ scroll: true
 	<br>
     	<ul id="list">
 		<br>
-      	<li id="list"><b>Published: </b>
+      	<li id="list"><b>First Author Publications: </b>
 		</li>
             <ul id="sublist">
 		    <li>Murphy J<sup>*</sup>, <b><u>Konda P</u></b><sup>*</sup>,.. Gujar S. 2017. MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. <u><i>Journal of Proteome Research</i></u>. ACS EDITOR’S CHOICE ARTICLE 2016-2017. [IF=4.26]</li>
@@ -98,7 +98,7 @@ scroll: true
 		    <li><u><b>Konda P</b></u><sup>*</sup>, Lifshits LM<sup>*</sup>, Roque III JA<sup>*</sup>, ... Gujar S. 2021. Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy. <u><i>OncoImmunology</i></u>. <i>[IF=4.91]</i>		</li>
            </ul>
 		<br>
-    <li id="list"><b>In Progress:</b>
+    <li id="list"><b>Co-Author Publications:</b>
             <ul id="sublist">
             </ul>
             </li>
