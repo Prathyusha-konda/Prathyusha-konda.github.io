@@ -13,7 +13,7 @@ scroll: true
 </div>
 <h1 id="about"><b>About Me</b></h1>
 <div class="container">
-    <h4>I am a Ph.D. candidate in the department of Microbiology and Immunology at Dalhousie University. My work is focused on cancer immunotherapies with an integration of mass spectrometry and genomics based technologies.</h4>
+    <h4>Prathyusha Konda received her B.Tech. from the Indian Institute of Technology (IIT-Madras), India. She is pursuing her Ph.D. with Professor Shashi Gujar at Dalhousie University, Halifax, NS, Canada. Her research interests include immunomics and immunotherapies of cancers, more specifically oncolytic viruses, and photodynamic therapies.</h4>
 </div>
 <div class="container" id="contactbuttondiv">
     <h5 id="contactbuttons"><span id="icon" class="glyphicon glyphicon-envelope"></span>  Email:<a href="mailto:prathyusha.konda@dal.ca"> prathyusha.konda@dal.ca</a></h5>|
