@@ -7,7 +7,7 @@ page_title: Prathyusha Konda
 scroll: true
 ---
 <p align="center">
-  <img src="images/header_new_copy.jpg" width="200" height="280" alt="hi" class="inline" />
+  <img src="images/header_new_copy.jpg" width="250" height="280" alt="hi" class="inline" />
 </p>
 <div class="container" id="about">
 </div>
