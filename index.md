@@ -51,25 +51,6 @@ scroll: true
 		    <br>
             </ul>
         </li>
-        <li id="list"><b>High School Diploma, <i>Narayana Junior College, Kurnool, India</i></b>
-            <ul id="sublist">
-                <li>2009-2011</li>
-                <li>Award for top ranking student in the school and in the district, Indian Institute of Technology Joint Entrance Examination</li>
-                <li>Award for top ranking student in the school and in the district, All India Engineering Entrance Exam</li>
-		    <li>96 percentile</li>
-		    <br>
-            </ul>
-        </li>
-		<li id="list"><b>Middle School Diploma, <i>St. Joseph's English School, Kurnool, India</i></b>
-            <ul id="sublist">
-                <li>2001-2009</li>
-                <li>Award for first ranking student in school, Central Board of Secondary Education</li>
-				<li>Sri Sunkuveera Reddy Endowment Award, Award for Top score in Mathematics</li>
-                <li>Sri Yasagiri Ananthaiah Reddy Award, Award for Top score in English</li>
-		    <li>94 percentile</li>
-		    <br>
-            </ul>
-        </li>
     </ul>
     </div>
 	<h2 id="Publications"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Publications</h2>
